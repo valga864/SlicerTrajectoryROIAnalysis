@@ -127,21 +127,6 @@ Extension was only tested on Windows
 
 # Installation
 
-## Install from the Slicer Extensions Manager
-
-1. Open 3D Slicer.
-2. Open Extension Manager.
-3. Search for:
-
-```text
-Trajectory ROI Analysis
-```
-
-4. Click Install.
-5. Restart Slicer.
-
----
-
 ## Install from Source
 
 Clone the repository:
