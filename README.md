@@ -232,7 +232,6 @@ The extension is provided as-is and is not currently under active maintenance or
 For questions regarding usage, maintenance, or future development, please contact:
 
 **Elisabeth Klint**
-elisabeth.klint@liu.se
 Department of Biomedical Engineering, Linköping University
 
 Support:
