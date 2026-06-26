@@ -4,7 +4,7 @@ Trajectory ROI Analysis is a 3D Slicer extension for quantitative analysis along
 
 For each trajectory point, the module creates spherical regions of interest (ROIs) along biopsy or measurement trajectories, identifies all voxel centers located inside the sphere, computes descriptive voxel-based statistics, and exports the results to a CSV file. Additional functionality includes evaluation of segmentation overlap, export of quantitative results, and visualization of image and signal intensity profiles along the trajectory.
 
-![Trajectory ROI Analysis screenshot](ScreenshotUI_TrajectoryROIAnalysis.png)
+![Trajectory ROI Analysis screenshot](ScreenshotUI_TrajectoryROIAnalysis1.png)
 
 
 ---
